@@ -31,3 +31,18 @@ nav ul li a{
     font-weight: bold;
 }
 
+section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .image-container {
+    flex: 1;
+    text-align: right;
+    padding: 50px;
+  }
+
+  .image-container img {
+    max-width: 70%;
+    border-radius: 50%;
+  }
