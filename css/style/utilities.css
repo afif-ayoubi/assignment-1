@@ -1,0 +1,18 @@
+.talking{
+    margin-left: 6%;
+    margin-top: 15%;
+    }
+    
+.talking h1 {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.talking a{
+    padding: 10px 18px;
+    background: #212121;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    margin: 20px 0;
+    border-radius: 5px;
+}

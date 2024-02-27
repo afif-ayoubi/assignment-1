@@ -4,3 +4,15 @@ nav ul li a:hover{
 nav ul li a {
     color: black;
   }
+.talking h1{
+    color: black;
+}
+.span{
+    color: orange;
+}
+.talking p{
+    color: #555
+}
+.white{
+    color:white
+}
